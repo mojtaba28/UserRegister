@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserRegister</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="forgot_password">forgot your password?</string>
+    <string name="dont_have_account">dont have account?</string>
+    <string name="register">register</string>
+    <string name="name">name</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="already_have_account">already have account?</string>
+    <string name="remember_me">remember me</string>
+    <string name="successful_register">registration was successfully!</string>
+    <string name="successful">successful</string>
+    <string name="username_or_password_wrong">username or password is wrong!</string>
+    <string name="user_already_exist">user already exis</string>
+    <string name="send">send</string>
+    <string name="forgot">forgot password</string>
+    <string name="email_sent">password sent to your email</string>
+</resources>

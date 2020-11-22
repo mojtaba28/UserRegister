@@ -37,4 +37,7 @@ dependencies {
 
     implementation 'com.airbnb.android:lottie:3.3.1'
 
+    //google account sign in
+    implementation 'com.google.android.gms:play-services-auth:19.0.0'
+
 }

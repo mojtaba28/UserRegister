@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 public class Utils {
 
-    public static String MAIN_URL="http://192.168.1.103/mojtaba/user_register/";
+    public static String MAIN_URL="http://yourdomain.com/";
 
     public static boolean isValidEmailId(String email){
 
